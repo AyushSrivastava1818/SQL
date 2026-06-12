@@ -83,6 +83,11 @@ project_sql1/
 * GitHub
 
 ---
+## 📂 SQL Queries
+
+🔍 Check out all SQL analysis files here:
+
+[📁 Project SQL Files](./project_sql1/)
 
 ## 👨‍💻 Author
 
